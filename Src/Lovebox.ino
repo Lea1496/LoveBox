@@ -1,7 +1,4 @@
-
-
 #include <LiquidCrystal.h>
-
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 #include <EEPROM.h>
@@ -169,9 +166,8 @@ void spinServo(){
     myservo.write(pos);      
     delay(50);    // wait 50ms to turn servo
 
-    if(pos == 55 || pos == 135){ // 75°-105° range
-      increment *= -1;
-    }
+    if(pos == 55 || pos == 135)
+        increment *= -1;
 
     pos += increment;
 }
