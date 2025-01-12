@@ -5,4 +5,4 @@ Electronics project I made for my girlfriend. It's inspired by https://en.lovebo
 
 ![](https://github.com/user-attachments/assets/e44882cc-eb31-43cf-bb07-379b51566cb3)
 
-This project was highly inspired by [julisa99's](https://github.com/julisa99) project [Lovebox](https://github.com/julisa99/Lovebox). I made some chnages to her original project : instead of using an Oled screen, like she did, I used a lcd 1602 and added a feature that makes the screen turn off when there is no new message.
+This project was highly inspired by [julisa99's](https://github.com/julisa99) project [Lovebox](https://github.com/julisa99/Lovebox). I made some changes to her original project : instead of using an Oled screen, I used a lcd 1602 and added a feature that makes the screen turn off when there is no new message.
