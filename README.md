@@ -1,7 +1,7 @@
 
 # LoveBox
 
-Electronics project I made for my girlfriend. It's inspired by https://en.lovebox.love/, I can send messages to the box and a little heart turns until the box is opened.
+Electronics project inspired by https://en.lovebox.love/, I can send messages to the box and a little heart turns until the box is opened.
 
 ![](https://github.com/user-attachments/assets/e44882cc-eb31-43cf-bb07-379b51566cb3)
 
